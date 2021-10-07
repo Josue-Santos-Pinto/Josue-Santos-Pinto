@@ -4,7 +4,6 @@
 
 - 🔭 Atualmente sou estudante de Sistemas de Informação 6º período na Estácio
 - 🌱 Estudando JavaScript
-- 📫 Contate-me no email: js.pinto55@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
