@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente sou estudante de Sistemas de Informação 7º período na Estácio
-- 🌱 Estudando Java
+- 🔭 Atualmente sou estudante de Sistemas de Informação 6º período na Estácio
+- 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele
 
 <div align="center">
