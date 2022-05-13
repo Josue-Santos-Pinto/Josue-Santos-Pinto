@@ -4,7 +4,6 @@
 
 - 🔭 Atualmente sou estudante de Sistemas de Informação 6º período na Estácio
 - 🌱 Estudando JavaScript
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Josue-Santos-Pinto">
