@@ -3,7 +3,8 @@
 
 
 - 🔭 Atualmente sou estudante de Sistemas de Informação 6º período na Estácio
-- 🌱 Estudando JavaScript
+- 🌱 Estudando React Js
+- 📧 Contate-me no email: js.pinto55@gmail.com
 
 <div align="center">
   <a href="https://github.com/Josue-Santos-Pinto">
