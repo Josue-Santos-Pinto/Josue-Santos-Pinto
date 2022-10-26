@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente sou estudante de Sistemas de Informação 7º período na Estácio
-- 🌱 Desenvolvedor Mobile | React Native
+- 🌱 Desenvolvedor React Native | ReactJS
 - 📧 Contate-me no email: js.pinto55@gmail.com
 - ➡️ Acesse meu Linkedin em: https://www.linkedin.com/in/josué-santos-0b7617179/
 
