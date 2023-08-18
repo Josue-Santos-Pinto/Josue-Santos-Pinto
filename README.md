@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente sou estudante de Sistemas de Informação 8º período na Estácio
-- 🌱 Desenvolvedor Mobile | React Native | Typescript | NodeJs | MySQL
+- 🔭 Bacharel em Sistemas de Informação, cursando MBA em desenvolvimento mobile
+- 🌱 Desenvolvedor Mobile | Kotlin | React Native | Typescript | Firebase
 - 📧 Contate-me no email: js.pinto55@gmail.com
 - ➡️ Acesse meu Linkedin em: https://www.linkedin.com/in/JosueSantosPinto/
 
